@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch UserApp",
+            "request": "launch",
+            "mainClass": "UserApp",
+            "classPaths": [
+                "StayRated/mysql-connector-j-8.4.0.jar"
+            ]
+        }
+    ]
+}
